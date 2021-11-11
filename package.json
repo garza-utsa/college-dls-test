@@ -7,11 +7,12 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "galen test tests/ --htmlreport reports"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "galenframework": "^2.4.4",
     "gulp": "^4.0.2",
     "gulp-galen": "^1.1.1"
   }
