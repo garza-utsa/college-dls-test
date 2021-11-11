@@ -1,4 +1,4 @@
-@import common.gspec
+@import ../common.gspec
 
 @objects
     welcome_block       .jumbotron
