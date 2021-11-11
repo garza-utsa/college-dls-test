@@ -1,5 +1,5 @@
 load("init.js");
-load("pages/component.js");
+load("components/component.js");
 
 testOnAllDevices("Component page", "/", function (driver, device) {
     console.log(driver);
