@@ -1,0 +1,6 @@
+reports/
+.idea/
+*.iml
+*.swp
+node_modules
+.DS_Store
