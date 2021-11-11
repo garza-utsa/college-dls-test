@@ -1,6 +1,6 @@
 importClass(org.openqa.selenium.interactions.Actions);
 
-this.WelcomePage = $page("Welcome page", {
+this.Component = $page("Component Test", {
     loginButton: "#welcome-page .button-login",
 
     hoverFirstMenuItem: loggedFunction ("Hover first menu item", function (){
